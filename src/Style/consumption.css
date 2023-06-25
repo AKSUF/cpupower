@@ -1,0 +1,8 @@
+.texta {
+    justify-content: center;
+    align-items: center;
+}
+
+.text-right p {
+    display: inline-block;
+}
